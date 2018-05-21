@@ -1,1 +1,3 @@
-# gorl
+# Gorl
+
+Replaces girl to gorl.
